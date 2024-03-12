@@ -24,7 +24,7 @@ def check_data(age, cholestrol, ap_hi, ap_lo, bmi, gluc):
     file = open("rf.pkl", "rb")
     model_from_pickel = pickle.load(file)
 
-    with open('F:/ML Assesment/min_max_scaler.pkl', 'rb') as file:
+    with open('min_max_scaler.pkl', 'rb') as file:
         loaded_scaler = pickle.load(file)
 
     scaled_data = loaded_scaler.transform([[age, cholestrol, ap_hi, ap_lo, bmi, gluc]])
