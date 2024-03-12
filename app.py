@@ -21,7 +21,7 @@ app=dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 #defining my fuction
 
 def check_data(age, cholestrol, ap_hi, ap_lo, bmi, gluc):
-    file = open("F:/ML Assesment/rf.pkl", "rb")
+    file = open("rf.pkl", "rb")
     model_from_pickel = pickle.load(file)
 
     with open('F:/ML Assesment/min_max_scaler.pkl', 'rb') as file:
