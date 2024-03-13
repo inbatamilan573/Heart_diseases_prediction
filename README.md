@@ -15,6 +15,7 @@ To run this project locally, follow these steps:
 ```bash
 Step 1:git clone https://github.com/inbatamilan573/Heart_diseases_prediction.git ; cd Heart_diseases_prediction
  Step 2:  pip install -r requirements.txt ; python app.py
+```
 
 Once the application is running, you can access it through your web browser. Simply navigate to the web to use the heart disease prediction tool.
 
