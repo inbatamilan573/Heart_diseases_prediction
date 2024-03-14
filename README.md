@@ -20,8 +20,10 @@ Step 1:git clone https://github.com/inbatamilan573/Heart_diseases_prediction.git
 Once the application is running, you can access it through your web browser. Simply navigate to the web to use the heart disease prediction tool.
 
 1.Enter the required medical attributes for the patient.
-2.Click on the "Predict" button.
+2.Click on the "Submit" button.
 3.The model will provide a prediction on the likelihood of heart disease based on the entered attributes.
+
+
 
 ## Model Training
 The machine learning model used in this project is trained using the dataset mentioned above. The training process involves data preprocessing, feature engineering, model selection, and evaluation. The trained model is then used for making predictions in real-time.
