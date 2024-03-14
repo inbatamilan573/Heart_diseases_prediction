@@ -23,6 +23,7 @@ Once the application is running, you can access it through your web browser. Sim
 2.Click on the "Submit" button.
 3.The model will provide a prediction on the likelihood of heart disease based on the entered attributes.
 
+![Heart-Disease-Prediction-Using-Machine-Learning-Google-Docs](https://github.com/inbatamilan573/Heart_diseases_prediction/assets/61960466/2ead611c-ea1b-422c-96d0-19f1e3553dad)
 
 
 ## Model Training
